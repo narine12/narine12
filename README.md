@@ -4,9 +4,6 @@
 
 💻 **IT Professional | Web Developer | DevOps Engineer**  
 
-I love building scalable web apps, automating workflows, and managing reliable infrastructure.  
-Always curious about new technologies and improving development processes.  
-
 </div>
 
 ---
